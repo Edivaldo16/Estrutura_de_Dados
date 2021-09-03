@@ -1,4 +1,4 @@
-# Python Básico
+# Estruturas de Dados
 
  Aprendendo alguns exemplos de operações básicas no python
 
@@ -7,8 +7,8 @@
  1. Estrutura de Dados
 
      1. Listas
-     1. Tuplas
-     1. Dicionários
+     2. Tuplas
+     3. Dicionários
 
     
 
